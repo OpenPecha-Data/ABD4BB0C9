@@ -1,0 +1,28 @@
+id: ABD4BB0C9
+title: 'Beautiful String of Jewels: A Heart Advice'
+type: translation
+pechas:
+- IF7A2FD8A
+- I0B8895CC
+- I4C654447
+- I48A31691
+- I00024B67
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:48:13.308852
+  last_modified_at: 2023-01-04 12:48:13.308878
+  collections:
+  - Khandro Tsering Chödrön Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IF7A2FD8A/B3D9: 7CDC
+  I0B8895CC/56A3: 7CDC
+  I4C654447/AE44: 7CDC
+  I48A31691/F5EA: 7CDC
+  I00024B67/C198: 7CDC
